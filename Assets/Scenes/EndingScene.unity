@@ -657,7 +657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ls: {fileID: 1521262832}
-  second: 5
+  second: 10
   sceneName: MenuScene
 --- !u!4 &1521262831
 Transform:
